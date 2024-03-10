@@ -5,6 +5,7 @@ on:
       - main
   workflow_dispatch:
 
+
 jobs:
   train:
     runs-on: self-hosted
